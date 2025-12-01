@@ -34,7 +34,7 @@ This project analyzes the **Online Retail** dataset to find:
 
 ## Overall Activity Heatmap
 
-![Overall Activity Heatmap]("images/country_heatmap_United_Kingdom.png")
+![Overall Activity Heatmap]("images/overall_activity_heatmap.png")
 
 ## Hourly Activity Pattern
 
