@@ -34,19 +34,19 @@ This project analyzes the **Online Retail** dataset to find:
 
 ## Overall Activity Heatmap
 
-![Overall Activity Heatmap](images/overall_activity_heatmap.png)
+![Overall Activity Heatmap]("images\country_heatmap_United_Kingdom.png")
 
 ## Hourly Activity Pattern
 
-![Hourly Activity Pattern](images/hourly_activity_pattern.png)
+![Hourly Activity Pattern]("images\hourly_activity_pattern.png")
 
 ## Top Customers by Sales
 
-![Top Customers by Sales](images/top_customers_by_sales.png)
+![Top Customers by Sales]("images\top_customers_by_sales.png")
 
 ## World Map – Transaction Volume
 
-![World Map – Transaction Volume](images/world_map_transactions.png)
+![World Map – Transaction Volume]("images\world_map_transactions.png")
 
 
 ## 👨‍💻 Technologies
